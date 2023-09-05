@@ -1,2 +1,2 @@
 # CICD
-CICD Practice
+CICD Pipeline Practice
